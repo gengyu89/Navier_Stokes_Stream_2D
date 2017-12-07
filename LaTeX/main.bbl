@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem[Ben-Artzi et~al., 2005]{ben2005pure}
+Ben-Artzi, M., Croisille, J.-P., Fishelov, D., and Trachtenberg, S. (2005).
+\newblock A pure-compact scheme for the streamfunction formulation of
+  navier--stokes equations.
+\newblock {\em Journal of Computational Physics}, 205(2):640--664.
+
+\bibitem[Gander and Wanner, 2012]{gander2012euler}
+Gander, M.~J. and Wanner, G. (2012).
+\newblock From euler, ritz, and galerkin to modern computing.
+\newblock {\em Siam Review}, 54(4):627--666.
+
+\bibitem[Gerya, 2009]{gerya2009introduction}
+Gerya, T. (2009).
+\newblock {\em Introduction to numerical geodynamic modelling}.
+\newblock Cambridge University Press.
+
+\bibitem[Goda, 1979]{goda1979multistep}
+Goda, K. (1979).
+\newblock A multistep technique with implicit difference schemes for
+  calculating two-or three-dimensional cavity flows.
+\newblock {\em Journal of Computational Physics}, 30(1):76--95.
+
+\bibitem[Turcotte and Schubert, 2014]{turcotte2014geodynamics}
+Turcotte, D. and Schubert, G. (2014).
+\newblock {\em Geodynamics}.
+\newblock Cambridge University Press.
+
+\end{thebibliography}
