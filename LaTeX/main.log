@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  6 DEC 2017 19:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 DEC 2017 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,12 +867,12 @@ Overfull \vbox (10.56061pt too high) has occurred while \output is active []
 t/ns_routine/default_p_3sec.png (PNG copy)> <../Python/report/ns_routine/defaul
 t_p_4sec.png (PNG copy)> <../Python/report/ns_routine/default_p_5sec.png (PNG c
 opy)> <../Python/report/ns_routine/default_u_final.png (PNG copy)>]
-<../Python/report/ns_test/ns_test.png, id=53, 635.37375pt x 168.63pt>
-File: ../Python/report/ns_test/ns_test.png Graphic file (type png)
+<../Python/report/ns_test/lst_of_materials.png, id=53, 635.37375pt x 168.63pt>
+File: ../Python/report/ns_test/lst_of_materials.png Graphic file (type png)
 
-<use ../Python/report/ns_test/ns_test.png>
-Package pdftex.def Info: ../Python/report/ns_test/ns_test.png used on input lin
-e 335.
+<use ../Python/report/ns_test/lst_of_materials.png>
+Package pdftex.def Info: ../Python/report/ns_test/lst_of_materials.png used on 
+input line 335.
 (pdftex.def)             Requested size: 308.59187pt x 81.90381pt.
 
 <../Python/report/ns_test/granite_u_final.png, id=54, 622.325pt x 514.92375pt>
@@ -962,10 +962,10 @@ Package pdftex.def Info: ../Python/output/fd_solution/plots/default.png used on
 
 LaTeX Warning: Float too large for page by 37.02338pt on input line 402.
 
-[8 <../Python/report/ns_test/ns_test.png> <../Python/report/ns_test/granite_u_f
-inal.png (PNG copy)> <../Python/report/ns_test/dummy_1_u_final.png (PNG copy)> 
-<../Python/report/ns_test/dummy_2_u_final.png (PNG copy)> <../Python/report/ns_
-test/dummy_3_u_final.png (PNG copy)>]
+[8 <../Python/report/ns_test/lst_of_materials.png> <../Python/report/ns_test/gr
+anite_u_final.png (PNG copy)> <../Python/report/ns_test/dummy_1_u_final.png (PN
+G copy)> <../Python/report/ns_test/dummy_2_u_final.png (PNG copy)> <../Python/r
+eport/ns_test/dummy_3_u_final.png (PNG copy)>]
 <../Python/output/fd_solution/log/fe_vs_fd.png, id=72, 578.16pt x 397.485pt>
 File: ../Python/output/fd_solution/log/fe_vs_fd.png Graphic file (type png)
 
@@ -1006,7 +1006,7 @@ on/output/fd_solution/plots/default.png>] [13 <../Python/output/fd_solution/log
 /fe_vs_fd.png> <../Python/report/fd_numba/perform_test.png>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  6926 strings out of 493014
- 101403 string characters out of 6133351
+ 101448 string characters out of 6133351
  205337 words of memory out of 5000000
  10314 multiletter control sequences out of 15000+600000
  14623 words of font info for 56 fonts, out of 8000000 for 9000
@@ -1028,7 +1028,7 @@ ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (15 pages, 1299508 bytes).
+Output written on main.pdf (15 pages, 1299723 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream

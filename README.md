@@ -65,17 +65,17 @@ GENG, Yu <br>
 
 4. Import the time series in ParaView and enjoy the animations.
 
-**Programming Notes**
-  * Do not adjust the number of steps when changing the total length of the
+* Programming notes
+  - Do not adjust the number of steps when changing the total length of the
       time series i.e. denser steps should be used for shorter animations,
       sparser steps should be used for longer animations.
-  * Since it is not as convenient to flip y-axis in Paraview as in Python, we
+  - Since it is not as convenient to flip $y$-axis in Paraview as in Python, we
       changed the definition of positive direction. The sign of the gravity
       field was also reversed in the function.
-  * If the output folders do not exist, `ns_main.py` will create them.
-  * Each time you run `ns_main.py`, output from the previous session will be
+  - If the output folders do not exist, `ns_main.py` will create them.
+  - Each time you run `ns_main.py`, output from the previous session will be
       cleaned up.
-  * Under each subfolder, solutions are saved as `pressure.pvd` and
+  - Under each subfolder, solutions are saved as `pressure.pvd` and
       `velocity.pvd`
 
 
@@ -108,15 +108,15 @@ GENG, Yu <br>
      ./output/fe_solution/log/*.log
      ```
 
-**Programming Notes**
-  * Do not use `%e` or `%f` in a FEniCS `Expression()`. It will cause DOLFIN
+* Programming notes
+  - Do not use `%e` or `%f` in a FEniCS `Expression()`. It will cause DOLFIN
       repeatedly compile the subroutine as you run your project.
-  * The force function must be computed on a denser grid if it is an impulse or
+  - The force function must be computed on a denser grid if it is an impulse or
       in any sharp shape. You will get all-zero solutions otherwise.
-  * The two PDEs are solved subsequently inside the subroutine
+  - The two PDEs are solved subsequently inside the subroutine
       `solve_coupled()`. Intermediate results are saved as XML files which will
       be cleaned up by the program automatically.
-  * Each time you run `fe_main.py`, the output in the `/pvd/` folder will be
+  - Each time you run `fe_main.py`, the output in the `/pvd/` folder will be
       cleaned up. The converted CSV files from the previous output will also be
       cleaned up - this is especially important to notice for those who convert
       manually!
@@ -142,11 +142,11 @@ GENG, Yu <br>
 
 3. Read the scale of the velocities written from the screen output.
 
-**Programming Notes**
-  * All parameters produce a linear change in the velocity as they increase
+* Programming notes
+  - All parameters produce a linear change in the velocity as they increase
       except for viscosity - a smaller stepsize is suggested to observe the
       behavior of `u_max vs. viscosity` better
-  * Viscosities were divided by `1e21`, velocities were multiplied by `1e7` in
+  - Viscosities were divided by `1e21`, velocities were multiplied by `1e7` in
       the log files.
 
 
