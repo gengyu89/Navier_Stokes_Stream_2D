@@ -1,4 +1,4 @@
-**CERI 8315 Term Porject** <br>
+**CERI 8315 Term Project** <br>
     - *Solving the velocity field of an incompressible fluid with constant
         viscosity using Navier-Stokes equation and stream function approaches*
 
@@ -69,7 +69,7 @@ GENG, Yu <br>
   - Do not adjust the number of steps when changing the total length of the
       time series i.e. denser steps should be used for shorter animations,
       sparser steps should be used for longer animations.
-  - Since it is not as convenient to flip $y$-axis in Paraview as in Python, we
+  - Since it is not as convenient to flip *y*-axis in Paraview as in Python, we
       changed the definition of positive direction. The sign of the gravity
       field was also reversed in the function.
   - If the output folders do not exist, `ns_main.py` will create them.
