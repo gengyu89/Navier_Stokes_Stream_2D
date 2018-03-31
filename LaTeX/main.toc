@@ -11,11 +11,11 @@
 \contentsline {subsection}{\numberline {2.2}The vorticity formulation}{3}
 \contentsline {subsubsection}{\numberline {2.2.1}The finite element approach}{3}
 \contentsline {subsubsection}{\numberline {2.2.2}The finite difference approach}{4}
-\contentsline {section}{\numberline {3}Results and Discussions}{5}
-\contentsline {subsection}{\numberline {3.1}The Navier-Stokes equation}{5}
-\contentsline {subsubsection}{\numberline {3.1.1}Default settings}{5}
-\contentsline {subsubsection}{\numberline {3.1.2}More boundary conditions}{7}
-\contentsline {subsection}{\numberline {3.2}The vorticity formulation}{7}
-\contentsline {subsubsection}{\numberline {3.2.1}Solutions}{7}
-\contentsline {subsubsection}{\numberline {3.2.2}Performance test}{10}
-\contentsline {section}{\numberline {4}Conclusions}{10}
+\contentsline {section}{\numberline {3}Results and Discussions}{4}
+\contentsline {subsection}{\numberline {3.1}The Navier-Stokes equation}{4}
+\contentsline {subsubsection}{\numberline {3.1.1}Default settings}{4}
+\contentsline {subsubsection}{\numberline {3.1.2}More boundary conditions}{6}
+\contentsline {subsection}{\numberline {3.2}The vorticity formulation}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Solutions}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}Performance test}{9}
+\contentsline {section}{\numberline {4}Conclusions}{9}

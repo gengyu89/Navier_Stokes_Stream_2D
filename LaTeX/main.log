@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  7 DEC 2017 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  31 MAR 2018 14:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -701,12 +701,12 @@ LaTeX Font Info:    ... okay on input line 50.
 * \topmargin=-22.54622pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -777,9 +777,10 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
-[]\OT1/cmr/m/n/12 The time-dependent Navier-Stokes
- []
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 1 might be wrong on input line 133.
+
 
 [1]
 Underfull \hbox (badness 10000) in paragraph at lines 153--154
@@ -802,13 +803,13 @@ File: ../Python/output/fd_solution/plots/mesh_grid.png Graphic file (type png)
 Package pdftex.def Info: ../Python/output/fd_solution/plots/mesh_grid.png used 
 on input line 254.
 (pdftex.def)             Requested size: 176.33629pt x 121.2297pt.
- [4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 283--284
 
  []
 
 
-<../Python/report/ns_routine/default_p_2sec.png, id=38, 622.325pt x 514.92375pt
+<../Python/report/ns_routine/default_p_2sec.png, id=35, 622.325pt x 514.92375pt
 >
 File: ../Python/report/ns_routine/default_p_2sec.png Graphic file (type png)
  <use ../Python/report/ns_routine/default_p_2sec.png>
@@ -816,7 +817,7 @@ Package pdftex.def Info: ../Python/report/ns_routine/default_p_2sec.png used on
  input line 297.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_routine/default_p_3sec.png, id=39, 622.325pt x 514.92375pt
+<../Python/report/ns_routine/default_p_3sec.png, id=36, 622.325pt x 514.92375pt
 >
 File: ../Python/report/ns_routine/default_p_3sec.png Graphic file (type png)
  <use ../Python/report/ns_routine/default_p_3sec.png>
@@ -824,7 +825,7 @@ Package pdftex.def Info: ../Python/report/ns_routine/default_p_3sec.png used on
  input line 300.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_routine/default_p_4sec.png, id=40, 622.325pt x 514.92375pt
+<../Python/report/ns_routine/default_p_4sec.png, id=37, 622.325pt x 514.92375pt
 >
 File: ../Python/report/ns_routine/default_p_4sec.png Graphic file (type png)
  <use ../Python/report/ns_routine/default_p_4sec.png>
@@ -832,23 +833,26 @@ Package pdftex.def Info: ../Python/report/ns_routine/default_p_4sec.png used on
  input line 303.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_routine/default_p_5sec.png, id=41, 622.325pt x 514.92375pt
+<../Python/report/ns_routine/default_p_5sec.png, id=38, 622.325pt x 514.92375pt
 >
 File: ../Python/report/ns_routine/default_p_5sec.png Graphic file (type png)
  <use ../Python/report/ns_routine/default_p_5sec.png>
 Package pdftex.def Info: ../Python/report/ns_routine/default_p_5sec.png used on
  input line 306.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
-
-<../Python/report/ns_routine/default_u_final.png, id=42, 622.325pt x 514.92375p
+ [4] [5 <../Python/output/fd_solution/plots/force_function.png> <../Python/outp
+ut/fd_solution/plots/mesh_grid.png> <../Python/report/ns_routine/default_p_2sec
+.png (PNG copy)> <../Python/report/ns_routine/default_p_3sec.png (PNG copy)> <.
+./Python/report/ns_routine/default_p_4sec.png (PNG copy)> <../Python/report/ns_
+routine/default_p_5sec.png (PNG copy)>]
+<../Python/report/ns_routine/default_u_final.png, id=48, 622.325pt x 514.92375p
 t>
 File: ../Python/report/ns_routine/default_u_final.png Graphic file (type png)
  <use ../Python/report/ns_routine/default_u_final.png>
 Package pdftex.def Info: ../Python/report/ns_routine/default_u_final.png used o
 n input line 315.
 (pdftex.def)             Requested size: 150.79594pt x 124.77065pt.
- [5 <../Python/output/fd_solution/plots/force_function.png> <../Python/output/f
-d_solution/plots/mesh_grid.png>]
+
 <../Python/output/ns_solution/log/velocity.png, id=49, 578.16pt x 397.485pt>
 File: ../Python/output/ns_solution/log/velocity.png Graphic file (type png)
 
@@ -857,17 +861,7 @@ Package pdftex.def Info: ../Python/output/ns_solution/log/velocity.png used on
 input line 324.
 (pdftex.def)             Requested size: 150.79594pt x 103.67117pt.
 
-Overfull \vbox (10.56061pt too high) has occurred while \output is active []
-
-
-Overfull \vbox (10.56061pt too high) has occurred while \output is active []
-
-
-[6 <../Python/report/ns_routine/default_p_2sec.png (PNG copy)> <../Python/repor
-t/ns_routine/default_p_3sec.png (PNG copy)> <../Python/report/ns_routine/defaul
-t_p_4sec.png (PNG copy)> <../Python/report/ns_routine/default_p_5sec.png (PNG c
-opy)> <../Python/report/ns_routine/default_u_final.png (PNG copy)>]
-<../Python/report/ns_test/lst_of_materials.png, id=53, 635.37375pt x 168.63pt>
+<../Python/report/ns_test/lst_of_materials.png, id=50, 635.37375pt x 168.63pt>
 File: ../Python/report/ns_test/lst_of_materials.png Graphic file (type png)
 
 <use ../Python/report/ns_test/lst_of_materials.png>
@@ -875,7 +869,7 @@ Package pdftex.def Info: ../Python/report/ns_test/lst_of_materials.png used on
 input line 335.
 (pdftex.def)             Requested size: 308.59187pt x 81.90381pt.
 
-<../Python/report/ns_test/granite_u_final.png, id=54, 622.325pt x 514.92375pt>
+<../Python/report/ns_test/granite_u_final.png, id=51, 622.325pt x 514.92375pt>
 File: ../Python/report/ns_test/granite_u_final.png Graphic file (type png)
 
 <use ../Python/report/ns_test/granite_u_final.png>
@@ -883,7 +877,7 @@ Package pdftex.def Info: ../Python/report/ns_test/granite_u_final.png used on i
 nput line 352.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_test/dummy_1_u_final.png, id=55, 622.325pt x 514.92375pt>
+<../Python/report/ns_test/dummy_1_u_final.png, id=52, 622.325pt x 514.92375pt>
 File: ../Python/report/ns_test/dummy_1_u_final.png Graphic file (type png)
 
 <use ../Python/report/ns_test/dummy_1_u_final.png>
@@ -891,7 +885,7 @@ Package pdftex.def Info: ../Python/report/ns_test/dummy_1_u_final.png used on i
 nput line 355.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_test/dummy_2_u_final.png, id=56, 622.325pt x 514.92375pt>
+<../Python/report/ns_test/dummy_2_u_final.png, id=53, 622.325pt x 514.92375pt>
 File: ../Python/report/ns_test/dummy_2_u_final.png Graphic file (type png)
 
 <use ../Python/report/ns_test/dummy_2_u_final.png>
@@ -899,15 +893,16 @@ Package pdftex.def Info: ../Python/report/ns_test/dummy_2_u_final.png used on i
 nput line 358.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_test/dummy_3_u_final.png, id=57, 622.325pt x 514.92375pt>
+<../Python/report/ns_test/dummy_3_u_final.png, id=54, 622.325pt x 514.92375pt>
 File: ../Python/report/ns_test/dummy_3_u_final.png Graphic file (type png)
 
 <use ../Python/report/ns_test/dummy_3_u_final.png>
 Package pdftex.def Info: ../Python/report/ns_test/dummy_3_u_final.png used on i
 nput line 361.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
-
-<../Python/report/ns_test/longer_granite_u_final.png, id=58, 622.325pt x 514.92
+ [6 <../Python/report/ns_routine/default_u_final.png (PNG copy)> <../Python/out
+put/ns_solution/log/velocity.png>]
+<../Python/report/ns_test/longer_granite_u_final.png, id=59, 622.325pt x 514.92
 375pt>
 File: ../Python/report/ns_test/longer_granite_u_final.png Graphic file (type pn
 g)
@@ -916,7 +911,7 @@ Package pdftex.def Info: ../Python/report/ns_test/longer_granite_u_final.png us
 ed on input line 372.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_test/longer_dummy_1_u_final.png, id=59, 622.325pt x 514.92
+<../Python/report/ns_test/longer_dummy_1_u_final.png, id=60, 622.325pt x 514.92
 375pt>
 File: ../Python/report/ns_test/longer_dummy_1_u_final.png Graphic file (type pn
 g)
@@ -925,7 +920,7 @@ Package pdftex.def Info: ../Python/report/ns_test/longer_dummy_1_u_final.png us
 ed on input line 375.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_test/longer_dummy_2_u_final.png, id=60, 622.325pt x 514.92
+<../Python/report/ns_test/longer_dummy_2_u_final.png, id=61, 622.325pt x 514.92
 375pt>
 File: ../Python/report/ns_test/longer_dummy_2_u_final.png Graphic file (type pn
 g)
@@ -934,7 +929,7 @@ Package pdftex.def Info: ../Python/report/ns_test/longer_dummy_2_u_final.png us
 ed on input line 378.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
 
-<../Python/report/ns_test/longer_dummy_3_u_final.png, id=61, 622.325pt x 514.92
+<../Python/report/ns_test/longer_dummy_3_u_final.png, id=62, 622.325pt x 514.92
 375pt>
 File: ../Python/report/ns_test/longer_dummy_3_u_final.png Graphic file (type pn
 g)
@@ -942,8 +937,11 @@ g)
 Package pdftex.def Info: ../Python/report/ns_test/longer_dummy_3_u_final.png us
 ed on input line 381.
 (pdftex.def)             Requested size: 176.33629pt x 145.90622pt.
- [7 <../Python/output/ns_solution/log/velocity.png>]
-<../Python/output/fe_solution/plots/default.png, id=66, 578.16pt x 397.485pt>
+ [7 <../Python/report/ns_test/lst_of_materials.png> <../Python/report/ns_test/g
+ranite_u_final.png (PNG copy)> <../Python/report/ns_test/dummy_1_u_final.png (P
+NG copy)> <../Python/report/ns_test/dummy_2_u_final.png (PNG copy)> <../Python/
+report/ns_test/dummy_3_u_final.png (PNG copy)>]
+<../Python/output/fe_solution/plots/default.png, id=67, 578.16pt x 397.485pt>
 File: ../Python/output/fe_solution/plots/default.png Graphic file (type png)
 
 <use ../Python/output/fe_solution/plots/default.png>
@@ -951,7 +949,7 @@ Package pdftex.def Info: ../Python/output/fe_solution/plots/default.png used on
  input line 396.
 (pdftex.def)             Requested size: 396.76001pt x 272.77292pt.
 
-<../Python/output/fd_solution/plots/default.png, id=67, 578.16pt x 397.485pt>
+<../Python/output/fd_solution/plots/default.png, id=68, 578.16pt x 397.485pt>
 File: ../Python/output/fd_solution/plots/default.png Graphic file (type png)
 
 <use ../Python/output/fd_solution/plots/default.png>
@@ -960,12 +958,12 @@ Package pdftex.def Info: ../Python/output/fd_solution/plots/default.png used on
 (pdftex.def)             Requested size: 396.76001pt x 272.77292pt.
 
 
-LaTeX Warning: Float too large for page by 37.02338pt on input line 402.
+LaTeX Warning: Float too large for page by 17.5234pt on input line 402.
 
-[8 <../Python/report/ns_test/lst_of_materials.png> <../Python/report/ns_test/gr
-anite_u_final.png (PNG copy)> <../Python/report/ns_test/dummy_1_u_final.png (PN
-G copy)> <../Python/report/ns_test/dummy_2_u_final.png (PNG copy)> <../Python/r
-eport/ns_test/dummy_3_u_final.png (PNG copy)>]
+[8 <../Python/report/ns_test/longer_granite_u_final.png (PNG copy)> <../Python/
+report/ns_test/longer_dummy_1_u_final.png (PNG copy)> <../Python/report/ns_test
+/longer_dummy_2_u_final.png (PNG copy)> <../Python/report/ns_test/longer_dummy_
+3_u_final.png (PNG copy)>]
 <../Python/output/fd_solution/log/fe_vs_fd.png, id=72, 578.16pt x 397.485pt>
 File: ../Python/output/fd_solution/log/fe_vs_fd.png Graphic file (type png)
 
@@ -973,11 +971,8 @@ File: ../Python/output/fd_solution/log/fe_vs_fd.png Graphic file (type png)
 Package pdftex.def Info: ../Python/output/fd_solution/log/fe_vs_fd.png used on 
 input line 408.
 (pdftex.def)             Requested size: 308.59187pt x 212.152pt.
- [9 <../Python/report/ns_test/longer_granite_u_final.png (PNG copy)> <../Python
-/report/ns_test/longer_dummy_1_u_final.png (PNG copy)> <../Python/report/ns_tes
-t/longer_dummy_2_u_final.png (PNG copy)> <../Python/report/ns_test/longer_dummy
-_3_u_final.png (PNG copy)>]
-<../Python/report/fd_numba/perform_test.png, id=76, 635.37375pt x 348.30125pt>
+
+<../Python/report/fd_numba/perform_test.png, id=73, 635.37375pt x 348.30125pt>
 File: ../Python/report/fd_numba/perform_test.png Graphic file (type png)
 
 <use ../Python/report/fd_numba/perform_test.png>
@@ -994,44 +989,44 @@ LaTeX Font Info:    Try loading font information for OMS+cmr on input line 433.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 433.
- [10]
+
 Underfull \hbox (badness 10000) in paragraph at lines 440--441
 
  []
 
-(./main.bbl) [11] [12 <../Python/output/fe_solution/plots/default.png> <../Pyth
-on/output/fd_solution/plots/default.png>] [13 <../Python/output/fd_solution/log
-/fe_vs_fd.png> <../Python/report/fd_numba/perform_test.png>] (./main.aux) ) 
+(./main.bbl [9]) [10] [11 <../Python/output/fe_solution/plots/default.png> <../
+Python/output/fd_solution/plots/default.png>] [12 <../Python/output/fd_solution
+/log/fe_vs_fd.png> <../Python/report/fd_numba/perform_test.png>] (./main.aux) )
+ 
 Here is how much of TeX's memory you used:
- 6926 strings out of 493014
- 101448 string characters out of 6133351
- 205337 words of memory out of 5000000
- 10314 multiletter control sequences out of 15000+600000
- 14623 words of font info for 56 fonts, out of 8000000 for 9000
+ 6931 strings out of 493014
+ 101496 string characters out of 6133351
+ 201337 words of memory out of 5000000
+ 10315 multiletter control sequences out of 15000+600000
+ 15121 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,11n,40p,1126b,442s stack positions out of 5000i,500n,10000p,200000b,80000s
-</us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/
-texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (15 pages, 1299723 bytes).
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (14 pages, 1299084 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 140 PDF objects out of 1000 (max. 8388607)
+ 79 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
