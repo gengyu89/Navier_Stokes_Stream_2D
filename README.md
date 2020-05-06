@@ -1,6 +1,6 @@
 **CERI 8315 Term Project** <br>
-    - *Solving the velocity field of an incompressible fluid with constant
-        viscosity using Navier-Stokes equation and stream function approaches*
+    - *The velocity field of an incompressible fluid with constant
+        viscosity from Navier-Stokes equation and stream function approaches*
 
 **Main Features**
   * Automatic type conversion from VTK to ASCII for further processing
