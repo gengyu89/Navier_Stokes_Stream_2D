@@ -1,5 +1,5 @@
 **CERI 8315 Term Project** <br>
-    - *The velocity field of an incompressible fluid with constant
+    - *The velocity field of an incompressible fluid with constant <br>
         viscosity from Navier-Stokes equation and stream function approaches*
 
 **Main Features**
